@@ -4,7 +4,7 @@ Hi 👋 My name is Precious
 Computer Science Student at UP Mindanao | Aspiring Web Developer
 ----------------------------------------------------------------
 
-Hi! I'm Precious, a BSCS Student in UP Mindanao. I'm interested in Web Development, the Cloud, and Cybersecurity.
+Hi! I'm Precious, a BSCS Student in UP Mindanao, a member of SPARCS, and a co-lead for AWS Learning Club - UP Mindanao Security Department. I'm interested in Web Development, the Cloud, and Cybersecurity.
 
 * 🧠  I'm learning Django and SASS
 
