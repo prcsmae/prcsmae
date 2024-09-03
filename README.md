@@ -1,8 +1,6 @@
 # 💫 Hello!
 Hi! I'm Precious, a BSCS Student in UP Mindanao, a member of the Technology and Skill-Building Committee of SPARCS, and a co-lead for AWS Learning Club - UP Mindanao Security Department. I'm interested in Web Development, the Cloud, and Cybersecurity.<br>🌱 I’m currently learning Django and PostgreSQL.<br>
 
-[![](https://visitcount.itsvg.in/api?id=prcsmae&icon=0&color=1)](https://visitcount.itsvg.in)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preciousmae/) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/prcsmae)
 
 # 💻 Tech Stack:
